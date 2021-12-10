@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @dalarcont
 - 👀 I’m interested in Backend programming
-- 🌱 I’m currently learning HTML, CSS, JS, JQuery, mySQL, C, JAVA...
+- 🌱 I’m currently learning HTML, CSS, JS, JQuery, mySQL, C#, JAVA...
 - 📫 How to reach me for educational purposes, send an email to: daniel.alarcon@utp.edu.co
-- 📫 How to reach me for personal purposes, send an email to: dfalarcont@gmail.com
+- 📫 How to reach me for personal/laboral purposes, send an email to: dfalarcont@gmail.com
 
 - Actually I'm studying an associate’s degree on Software Development and after I finish it, I'll study engineering.
 - I'm also interested in IT management, that's actually my current job, I'm the manager of some computer inventory at the same university where I study.
 - I'm support technician at the IT area.
+- I am interested in starting my work experience as a software developer!
 
 <!---
 This is a ✨ special ✨ repository because it's used to show how dalarcont is growing through the years at the IT and Programming area.
