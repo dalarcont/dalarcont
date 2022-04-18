@@ -10,7 +10,7 @@
 
 - In fact, I am studying a technology in software development, and when I finish it, I will study engineering.
 
-- I am also interested in IT administration, that is my current job, I am in charge of an inventory of computers at the same university where I study and of providing technical support.
+- I am also interested in IT administration.
 
 - I am interested in starting my work experience as a software developer!
 
